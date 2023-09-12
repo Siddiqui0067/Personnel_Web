@@ -13,24 +13,6 @@ export default {
         type: 'string',
         title: 'description'
       },
-    //   {
-    //     name: 'views',
-    //     type: 'string',
-    //     title: 'views'
-    //   },
-    //   {
-    //     name: 'comments',
-    //     type: 'string',
-    //     title: 'comments'
-    //   },
-    //   {
-    //     name: 'image',
-    //     type: 'image',
-    //     title: 'image',
-    //     Option: {
-    //       hotspot: true,
-    //     }
-    //   },
     {
         title: 'Slug',
         name: 'slug',
