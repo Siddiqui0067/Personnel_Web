@@ -20,7 +20,8 @@ console.log(res);
         views={val.views} 
         comments={val.comments} 
         description={val.description} 
-        title={val.title}  
+        title={val.title} 
+        img={val.image} 
         />
       )
     })
