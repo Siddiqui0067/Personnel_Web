@@ -26,9 +26,6 @@ console.log(res);
       )
     })
     }
-      
-      {/* <Card />
-      <Card /> */}
     </div>
   </div>
 </section>

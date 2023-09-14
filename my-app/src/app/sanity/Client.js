@@ -9,9 +9,9 @@ const client = createClient({
   useCdn: false
 });
 
-const builder = imageUrlBuilder(client.image)
+const builder = imageUrlBuilder(client)
 
-function urlFor(source) {
+export function urlFor(source) {
   return builder.image(source)
 }
 export default client;
